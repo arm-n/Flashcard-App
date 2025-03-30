@@ -15,18 +15,15 @@ The **Flashcard App** is a simple and interactive Tkinter-based application that
    git clone https://github.com/arm-n/Flashcard-App.git
 
 2. Navigate to the project directory:
-  ```sh
-  cd Flashcard-App
+    cd Flashcard-App
 
 3. Install required dependencies:
-  ```sh
-  pip install pandas
+   pip install pandas
 
 4. Run the application:
-  ```sh
   python main.py
 
-##📂Project Structure
+📂Project Structure
 
 Flashcard-App/
 │── data/
